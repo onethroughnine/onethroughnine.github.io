@@ -6,14 +6,26 @@
     <description>Recent content in Posts on One Through Nine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Dec 2025 16:43:59 -0500</lastBuildDate><atom:link href="https://onethroughnine.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Dec 2025 16:50:34 -0500</lastBuildDate><atom:link href="https://onethroughnine.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>https://onethroughnine.github.io/posts/post_landing_page/</link>
+      <pubDate>Sat, 27 Dec 2025 16:50:34 -0500</pubDate>
+      
+      <guid>https://onethroughnine.github.io/posts/post_landing_page/</guid>
+      <description>Welcome to One Through Nine,
+Like the last few years, we — Rahmy, Layla, and Summer — have spent a week together in December, playing cards and enjoying an unseasonably warm winter. Spread across the country and each leading distinct lives, we relish that we get to do the same things every year: we go to the arcade, drink tea at the local Yemeni coffee house, bake cookies, and this year through no fault of our own we did not go sledding.</description>
+    </item>
+    
     <item>
       <title>Post_zero</title>
       <link>https://onethroughnine.github.io/posts/post_zero/</link>
       <pubDate>Fri, 26 Dec 2025 16:43:59 -0500</pubDate>
       
       <guid>https://onethroughnine.github.io/posts/post_zero/</guid>
-      <description>Here we go with the first post :P</description>
+      <description>Here we go with the first post :P
+Headings Markdown supports multiple levels of headings using the hash symbol (#). This is a level 2 heading, and you can create up to level 6 headings by adding more hash symbols.
+Level 3 Heading Level 4 Heading Text Formatting You can make text bold by wrapping it with double asterisks or double underscores. You can make text italic by wrapping it with single asterisks or underscores.</description>
     </item>
     
   </channel>
